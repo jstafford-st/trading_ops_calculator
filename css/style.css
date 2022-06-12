@@ -1,0 +1,15 @@
+.jumbotron {
+    background-color: #4cbb17;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1%;
+}
+
+h3, label {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.task-title {
+    padding-top: 3%;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "trading_ops_calculator",
+  "version": "1.0.0",
+  "description": "Basic Sports Betting Calculator",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Stafford",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
